@@ -7,6 +7,7 @@ public class array_list {
     cars.add("BMW");
     cars.add("Mercedez");
     cars.add("MAZDA");
+    cars.add("Honda");
         for (String i: cars) {
             System.out.println(i);
         }
